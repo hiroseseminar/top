@@ -1,0 +1,28 @@
+@charset "UTF-8";
+body {
+  background-color: #fffeee;
+  background-image: url(hiroseseminar/topga_hirosezemi.jpg);
+  background-position:right top;
+}
+h1 {
+  color: #0bd;
+}
+p {
+  font-size: 20px;
+}
+menu {
+    background-color: #fffeee;
+    background-position: left top;
+    display:flex;
+    flex-flow: column;
+}
+daiji {
+  width: 105px;
+  argin-top: 14px;
+}
+container {
+ max-width: 1170px;
+ width: 100%;
+ padding: 0 15px;
+ margin: 0 auto;
+}
